@@ -1,0 +1,15 @@
+{
+  "name": "jgarcia-bashrc",
+  "version": "0.1.0",
+  "author": "jgarcia",
+  "summary": "bashrc template",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jgarcia5/Puppet.git",
+  "project_page": "https://github.com/jgarcia5/Puppet",
+  "issues_url": "https://github.com/jgarcia5/Puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
